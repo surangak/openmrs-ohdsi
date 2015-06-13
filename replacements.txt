@@ -1,0 +1,6 @@
+Replace occurances of "tinyint(4)" with "int"
+Replace occurances of "'0000-00-00 00:00:00'" with "null"
+Replace occurances of "COMMENT 'Valid values are: UNMAPPED, SYNONYM, CONCEPT, REJECT'"
+Replace occurances of "remove "COMMENT 'Comment from concept admin/mapper'"
+Replace occurances of "float(11,5)" with "float"
+Replace occurances of "longblob" with "bytea"
